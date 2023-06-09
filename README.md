@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhaskar-237
 - 👀 I’m interested in ... Python, Machine Learning, Neural Networks, AI
-- 🌱 I’m currently learning ... LSMTM
+- 🌱 I’m currently learning ... LSTM
 - 💞️ I’m looking to collaborate on ... Machine Learning Algorithms and Models
 - 📫 How to reach me ... bhaskar237@gmail.com
 
